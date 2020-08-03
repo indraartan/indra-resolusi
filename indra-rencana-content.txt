@@ -10,4 +10,4 @@ RENCANA KONTEN INDRA :
   * Laravel
 - Interview
 - Vlogs
-- Phyton 
+- CSS 
