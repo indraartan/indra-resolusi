@@ -3,7 +3,8 @@ RENCANA KONTEN INDRA :
 - Javascript
   * ES6
   * Frameworks Javascript
-- Struktur Data Dasar 
+    ^ Angular
 - PHP frameworks
+  * Laravel
 - Interview
 - Vlogs
