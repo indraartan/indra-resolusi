@@ -4,6 +4,7 @@ RENCANA KONTEN INDRA :
   * ES6
   * Frameworks Javascript
     ^ vue
+    ^ React
 - Struktur Data Dasar 
 - PHP frameworks
   * Laravel
